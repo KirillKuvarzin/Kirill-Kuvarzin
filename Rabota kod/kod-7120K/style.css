@@ -1,0 +1,28 @@
+.second {
+  transition: width 2s;
+  width: 600px;
+  font-size: 16px;
+  margin: 50px auto;
+  text-align: center;
+  background: #1d2d60;
+  color: aliceblue;
+  padding: 5px;
+}
+
+.first {
+  transition: width 2s;
+  width: 400px;
+  font-size: 16px;
+  margin: 50px auto;
+  text-align: center;
+  background: #601d1d;
+  color: rgb(68, 137, 198);
+  padding: 5px;
+  box-shadow: 5px 5px 5px 5px #19974b8e;
+}
+.button {
+  width: 50px;
+  height: 15px;
+  margin: 10px;
+  background: aqua;
+}
